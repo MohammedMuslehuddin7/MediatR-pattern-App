@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\MediatR1\MediatR1\bin\Debug\netcoreapp2.1\MediatR1.deps.json
+C:\Users\moham\source\repos\MediatR1\MediatR1\bin\Debug\netcoreapp2.1\MediatR1.runtimeconfig.json
+C:\Users\moham\source\repos\MediatR1\MediatR1\bin\Debug\netcoreapp2.1\MediatR1.runtimeconfig.dev.json
+C:\Users\moham\source\repos\MediatR1\MediatR1\bin\Debug\netcoreapp2.1\MediatR1.dll
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.RazorAssemblyInfo.cache
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.RazorAssemblyInfo.cs
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.AssemblyInfo.cs
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.RazorTargetAssemblyInfo.cache
+C:\Users\moham\source\repos\MediatR1\MediatR1\bin\Debug\netcoreapp2.1\MediatR1.pdb
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.dll
+C:\Users\moham\source\repos\MediatR1\MediatR1\obj\Debug\netcoreapp2.1\MediatR1.pdb
